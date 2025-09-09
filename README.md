@@ -1,5 +1,5 @@
 # Neighborhood-Watch-Incident-System
-## 📖 Project Description
+## Project Description
 The **Neighborhood Watch Incident System** is a digital platform designed to strengthen community safety and improve incident reporting. It enables residents to report crimes, fire incidents, natural disasters, and other emergencies in real time. Reports can include **photos, videos, and location details**, which are then sent to administrators and law enforcement for validation and response.
 
 The system improves communication between residents, barangay officials, and law enforcement agencies through:
